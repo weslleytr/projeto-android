@@ -53,6 +53,7 @@ header {
 
 
 header > h1 {
+    text-align: center;
     color: white;
     font-family: var(--fonte-destaque); 
     font-size: 3em;
